@@ -1,0 +1,46 @@
+{
+  "id": "technical-demo-plan",
+  "name": "Technical demo plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a technical discovery or demo meeting, the account executive and solutions engineer get an attendee brief, a demo sequence built around the buyer's stated workflow from approved scenarios, and open questions. Requests nobody has verified stay questions.",
+  "directory": "https://fullypowered.ai/capabilities/technical-demo-plan/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/hardware-and-physical-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "sales-call-preparation-brief",
+    "deal-close-plan",
+    "sales-proposal-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of preparing a technical demo, written from how that work is done."
+    }
+  ]
+}

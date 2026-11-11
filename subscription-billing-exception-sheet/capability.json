@@ -1,0 +1,46 @@
+{
+  "id": "subscription-billing-exception-sheet",
+  "name": "Subscription billing exception sheet",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a subscription billing run, or when a customer disputes a charge, the billing specialist gets a sheet tying each account's plan, quantity and invoice lines to the approved price mapping and the seat or usage records, with doubtful matches kept open.",
+  "directory": "https://fullypowered.ai/capabilities/subscription-billing-exception-sheet/",
+  "primary_function": "functions/finance-and-accounting",
+  "functions": [
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/media-and-entertainment",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "receivables-exception-review",
+    "month-end-close-checklist",
+    "software-subscription-and-vendor-spend-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of subscription billing work at software companies."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "usability-test-session-plan",
+  "name": "Usability test session plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a prototype or a confusing flow goes in front of users, the research lead and product owner hold one plan: who to recruit, the tasks in plain words, the neutral prompts, a blank note sheet and how success is counted. Recording and data handling are listed as decisions.",
+  "directory": "https://fullypowered.ai/capabilities/usability-test-session-plan/",
+  "primary_function": "functions/design-and-user-experience",
+  "functions": [
+    "functions/design-and-user-experience",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/finance-and-investment"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "customer-interview-synthesis",
+    "acceptance-criteria-sheet",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of product usability testing, written as an original method."
+    }
+  ]
+}

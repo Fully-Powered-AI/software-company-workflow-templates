@@ -1,0 +1,47 @@
+{
+  "id": "buyer-security-questionnaire-answers",
+  "name": "Buyer security questionnaire answers",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a buyer sends a security questionnaire, your sales owner gets a draft answer matrix: each question beside the evidence your security owner supplied, its date, its limits and a named reviewer, with stale, partial and unverifiable answers marked.",
+  "directory": "https://fullypowered.ai/capabilities/buyer-security-questionnaire-answers/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/information-security"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/finance-and-investment",
+    "industries/healthcare"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "bid-or-no-bid-and-rfp-response-plan",
+    "sales-proposal-preparation",
+    "deal-close-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of answering a buyer's security questionnaire, written from how that work is done: evidence supplied by the security owner, marks for stale, partial and unverifiable answers, and a named reviewer for each answer."
+    }
+  ]
+}

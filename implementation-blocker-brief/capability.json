@@ -1,0 +1,46 @@
+{
+  "id": "implementation-blocker-brief",
+  "name": "Implementation blocker brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a customer's setup milestone slips, the implementation lead gets one brief: the missing inputs, the unresolved access and data questions and the dependencies behind the delay, each with its source and an owner, plus points to raise with the customer.",
+  "directory": "https://fullypowered.ai/capabilities/implementation-blocker-brief/",
+  "primary_function": "functions/customer-success-and-account-management",
+  "functions": [
+    "functions/customer-success-and-account-management",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "schedule-recovery-options",
+    "customer-onboarding-plan",
+    "project-handover-readiness-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of software-company implementation work."
+    }
+  ]
+}
