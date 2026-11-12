@@ -1,6 +1,6 @@
 # Cloud spend variance bridge: an invented example
 
-*Illustrative example with invented data.* The company, the teams, the accounts, the services, the amounts and the dates below are all invented. Software Company Q is an invented software company. Its finance lead and engineering manager are looking at October's cloud bill, which came in above budget. First come the inputs they supplied, in full, then the bridge the capability returned.
+*Illustrative example with invented data.* The company, the teams, the accounts, the services, the amounts and the dates below are all invented. Software Company Q is an invented software company. Its finance lead and engineering manager are looking at October's cloud bill, which came in above budget. First come the inputs they supplied, in full, then the bridge the workflow template returned.
 
 ## The inputs
 

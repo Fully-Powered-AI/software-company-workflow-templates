@@ -1,6 +1,6 @@
 # Cloud spend variance bridge
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -24,7 +24,7 @@ Do not use it:
 - **Answers the engineering questions and confirms what depends on each service:** the engineering manager, or the owner named for the service.
 - **Answers the finance questions and settles unallocated and shared costs:** the finance lead.
 - **Approves any change in spend:** the finance lead together with the service owner. Always people.
-- **Makes any change in a cloud account:** the people the company names, outside this capability.
+- **Makes any change in a cloud account:** the people the company names, outside this workflow template.
 
 ## Inputs
 
@@ -60,7 +60,7 @@ The assistant works from files and notes the person supplies. It needs no connec
     - **For each material move without usage figures:** ask engineering for a usage measure for the service.
     - **For each account marked "new this month":** ask engineering what runs there and whether it was planned, and ask finance whether the budget expected it.
     - **For the unallocated total:** ask finance who should own it.
-    - **For each shared cost that is material:** ask finance whether and how it should be divided; the capability divides nothing.
+    - **For each shared cost that is material:** ask finance whether and how it should be divided; the workflow template divides nothing.
     - **For each service not in the budget:** ask finance whether it is a new service or a renamed budget line.
 12. **Decisions.** One numbered decision for each material move (a material service not in the budget has one decision, as a material move, and not a second), for the unallocated total when it is above 0, and for each other service not in the budget. Each states the facts and the choices open to the people named, such as accepting the variance, changing the budget, or asking engineering to look further. Name the finance lead and the service owner as the people who approve any change in spend. For the unallocated total, name the finance lead as the person who settles it (see Roles), with the service owner approving any change in spend. The assistant makes no choice.
 13. **Not supplied or checked.** Always say that no cloud account was read, that no resource was inspected, that operational dependencies were not checked, and that causes were not established. Add every optional input that was not supplied.

@@ -2,7 +2,7 @@
 
 Before a technical discovery or demo meeting, the account executive and solutions engineer get an attendee brief, a demo sequence built around the buyer's stated workflow from approved scenarios, and open questions. Requests nobody has verified stay questions.
 
-*Capability template · Software technology · Sales · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/technical-demo-plan/)*
+*Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/technical-demo-plan/)*
 
 ## The outcome
 
@@ -37,7 +37,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when demos multiply faster than one solutions engineer can prepare them from scratch.
 - [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when the team is small and every demo has to count.
 
-It is a different piece of work from the [sales call preparation brief](https://fullypowered.ai/capabilities/sales-call-preparation-brief/), which prepares any sales meeting from notes and public pages without a demo sequence, and from the [deal close plan](https://fullypowered.ai/capabilities/deal-close-plan/), which plans the steps from a late-stage deal to signature.
+It is a different piece of work from the [sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which prepares any sales meeting from notes and public pages without a demo sequence, and from the [deal close plan](https://fullypowered.ai/workflows/deal-close-plan/), which plans the steps from a late-stage deal to signature.
 
 ## What has to change for your company
 
@@ -45,9 +45,9 @@ Set up the approved demo scenario list first: one row for each scenario, with it
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. The run saw part of the example's output early, and the wording of several steps was clarified afterwards. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. The run saw part of the example's output early, and the wording of several steps was clarified afterwards. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past meeting your team already knows, with cases written in advance: a request that matches no scenario, a roadmap item the buyer asked for, a scenario that has not been checked recently, an invitee with no title. The solutions engineer checks every scenario status against the list before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past meeting your team already knows, with cases written in advance: a request that matches no scenario, a roadmap item the buyer asked for, a scenario that has not been checked recently, an invitee with no title. The solutions engineer checks every scenario status against the list before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -58,11 +58,11 @@ Testing in your environment means running it on a past meeting your team already
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -72,12 +72,12 @@ Testing in your environment means running it on a past meeting your team already
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Sales call preparation brief](https://fullypowered.ai/capabilities/sales-call-preparation-brief/)
-- [Deal close plan](https://fullypowered.ai/capabilities/deal-close-plan/)
-- [Sales proposal preparation](https://fullypowered.ai/capabilities/sales-proposal-preparation/)
+- [Sales call preparation brief](https://fullypowered.ai/workflow templates/sales-call-preparation-brief/)
+- [Deal close plan](https://fullypowered.ai/workflow templates/deal-close-plan/)
+- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,10 +1,10 @@
 {
   "id": "subscription-billing-exception-sheet",
   "name": "Subscription billing exception sheet",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a subscription billing run, or when a customer disputes a charge, the billing specialist gets a sheet tying each account's plan, quantity and invoice lines to the approved price mapping and the seat or usage records, with doubtful matches kept open.",
-  "directory": "https://fullypowered.ai/capabilities/subscription-billing-exception-sheet/",
+  "directory": "https://fullypowered.ai/workflow templates/subscription-billing-exception-sheet/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting"

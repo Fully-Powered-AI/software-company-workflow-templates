@@ -2,11 +2,11 @@
 
 Before a subscription billing run, or when a customer disputes a charge, the billing specialist gets a sheet tying each account's plan, quantity and invoice lines to the approved price mapping and the seat or usage records, with doubtful matches kept open.
 
-*Capability template · Software technology · Finance and accounting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/subscription-billing-exception-sheet/)*
+*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/subscription-billing-exception-sheet/)*
 
 ## The outcome
 
-Most subscription charges are right. The few that are not are the ones a customer finds first: a seat count that fell on the first of the month, a price that moved off the list, an account that was never invoiced, a credit that was agreed but never reached the invoice. This capability finds them before the run goes out, or traces a disputed charge back to the records behind it.
+Most subscription charges are right. The few that are not are the ones a customer finds first: a seat count that fell on the first of the month, a price that moved off the list, an account that was never invoiced, a credit that was agreed but never reached the invoice. This workflow template finds them before the run goes out, or traces a disputed charge back to the records behind it.
 
 The billing specialist spends the review on the exceptions rather than on lines that agree. Where a match is doubtful, because the account name fits two accounts, the plan changed in the middle of the period, or one line bundles several things, the sheet says so and leaves the item open. It never picks the likely answer. The sheet issues and changes no invoice and takes no accounting or tax position.
 
@@ -38,7 +38,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when plan counts and amendments outgrow a spreadsheet check.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where an older price list and years of amendments hide exceptions.
 
-It looks at what the company charges its own customers. It stays apart from [receivables exception review](https://fullypowered.ai/capabilities/receivables-exception-review/), which handles payments that came in against issued invoices, from [payout reconciliation for an online store](https://fullypowered.ai/capabilities/payout-reconciliation-for-an-online-store/), which ties a payment processor's payouts to the bank, and from [supplier bill review and payment run preparation](https://fullypowered.ai/capabilities/supplier-bill-review-and-payment-run-preparation/), which checks bills the company owes.
+It looks at what the company charges its own customers. It stays apart from [receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/), which handles payments that came in against issued invoices, from [payout reconciliation for an online store](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/), which ties a payment processor's payouts to the bank, and from [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/), which checks bills the company owes.
 
 ## What has to change for your company
 
@@ -46,7 +46,7 @@ Supply your own plan codes and price mapping, and say which export is the single
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Any edits made after the trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. Any edits made after the trial have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past billing run the specialist already knows, with cases written in advance: a changed seat count, an account with two similar names, a bundle, a credit not on the invoice. The billing specialist checks every figure against the records before anyone relies on the sheet.
 
@@ -59,11 +59,11 @@ Testing in your environment means running it on a past billing run the specialis
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,12 +73,12 @@ Testing in your environment means running it on a past billing run the specialis
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Receivables exception review](https://fullypowered.ai/capabilities/receivables-exception-review/)
-- [Month-end close checklist](https://fullypowered.ai/capabilities/month-end-close-checklist/)
-- [Software subscription and vendor spend review](https://fullypowered.ai/capabilities/software-subscription-and-vendor-spend-review/)
+- [Receivables exception review](https://fullypowered.ai/workflow templates/receivables-exception-review/)
+- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflow templates/software-subscription-and-vendor-spend-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This was one run of the capability template on its own invented example. The inputs are the invented ones in [the example](example.md): Larchfield Software, Buyer X, eight questions and nine evidence entries. No client data was used. The model that ran it did not write the template. It read the template and the example's inputs first, followed the instruction block and output format, and only then compared the result with the example's published output.
+This was one run of the workflow template on its own invented example. The inputs are the invented ones in [the example](example.md): Larchfield Software, Buyer X, eight questions and nine evidence entries. No client data was used. The model that ran it did not write the template. It read the template and the example's inputs first, followed the instruction block and output format, and only then compared the result with the example's published output.
 
 ## Inputs used
 

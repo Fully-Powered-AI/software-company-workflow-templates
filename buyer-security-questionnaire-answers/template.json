@@ -1,10 +1,10 @@
 {
   "id": "buyer-security-questionnaire-answers",
   "name": "Buyer security questionnaire answers",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a buyer sends a security questionnaire, your sales owner gets a draft answer matrix: each question beside the evidence your security owner supplied, its date, its limits and a named reviewer, with stale, partial and unverifiable answers marked.",
-  "directory": "https://fullypowered.ai/capabilities/buyer-security-questionnaire-answers/",
+  "directory": "https://fullypowered.ai/workflow templates/buyer-security-questionnaire-answers/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

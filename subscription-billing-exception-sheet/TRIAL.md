@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. The company, customers, plans and amounts are invented and no client data was used. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own invented example. The company, customers, plans and amounts are invented and no client data was used. It is not a test in any company's environment.
 
 The inputs were the invented example in `public/example.md` (the six inputs under "The inputs"). No client data was used. The instruction block and output format from `member/template.md` were followed. The assistant did not read the example's sheet until its own sheet was finished. It then compared the two.
 

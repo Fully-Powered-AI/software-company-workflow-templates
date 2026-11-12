@@ -1,10 +1,10 @@
 {
   "id": "technical-demo-plan",
   "name": "Technical demo plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a technical discovery or demo meeting, the account executive and solutions engineer get an attendee brief, a demo sequence built around the buyer's stated workflow from approved scenarios, and open questions. Requests nobody has verified stay questions.",
-  "directory": "https://fullypowered.ai/capabilities/technical-demo-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/technical-demo-plan/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",
