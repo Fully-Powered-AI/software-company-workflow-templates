@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a customer's setup milestone slips, the implementation lead gets one brief: the missing inputs, the unresolved access and data questions and the dependencies behind the delay, each with its source and an owner, plus points to raise with the customer.",
-  "directory": "https://fullypowered.ai/workflow templates/implementation-blocker-brief/",
+  "directory": "https://fullypowered.ai/workflows/implementation-blocker-brief/",
   "primary_function": "functions/customer-success-and-account-management",
   "functions": [
     "functions/customer-success-and-account-management",

@@ -2,7 +2,7 @@
 
 Before a prototype or a confusing flow goes in front of users, the research lead and product owner hold one plan: who to recruit, the tasks in plain words, the neutral prompts, a blank note sheet and how success is counted. Recording and data handling are listed as decisions.
 
-*Workflow template · Software technology · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/usability-test-session-plan/)*
+*Workflow template · Software technology · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/usability-test-session-plan/)*
 
 ## The outcome
 
@@ -74,9 +74,9 @@ Testing in your environment means giving it a flow your team has already watched
 
 ## Related workflow templates
 
-- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflow templates/acceptance-criteria-sheet/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

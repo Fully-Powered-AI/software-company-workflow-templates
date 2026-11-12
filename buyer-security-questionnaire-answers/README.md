@@ -2,7 +2,7 @@
 
 When a buyer sends a security questionnaire, your sales owner gets a draft answer matrix: each question beside the evidence your security owner supplied, its date, its limits and a named reviewer, with stale, partial and unverifiable answers marked.
 
-*Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/buyer-security-questionnaire-answers/)*
+*Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/)*
 
 ## The outcome
 
@@ -76,9 +76,9 @@ Testing in your environment means running it on a questionnaire you have already
 
 ## Related workflow templates
 
-- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflow templates/bid-or-no-bid-and-rfp-response-plan/)
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
-- [Deal close plan](https://fullypowered.ai/workflow templates/deal-close-plan/)
+- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
+- [Deal close plan](https://fullypowered.ai/workflows/deal-close-plan/)
 
 ## Make it yours
 

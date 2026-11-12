@@ -2,7 +2,7 @@
 
 When a customer's setup milestone slips, the implementation lead gets one brief: the missing inputs, the unresolved access and data questions and the dependencies behind the delay, each with its source and an owner, plus points to raise with the customer.
 
-*Workflow template · Software technology · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/implementation-blocker-brief/)*
+*Workflow template · Software technology · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/implementation-blocker-brief/)*
 
 ## The outcome
 
@@ -85,9 +85,9 @@ Testing in your environment means running it on recent late implementations, wit
 
 ## Related workflow templates
 
-- [Schedule recovery options](https://fullypowered.ai/workflow templates/schedule-recovery-options/)
-- [Customer onboarding plan](https://fullypowered.ai/workflow templates/customer-onboarding-plan/)
-- [Project handover readiness check](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)
+- [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/)
+- [Customer onboarding plan](https://fullypowered.ai/workflows/customer-onboarding-plan/)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
 
 ## Make it yours
 

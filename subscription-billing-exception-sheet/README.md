@@ -2,7 +2,7 @@
 
 Before a subscription billing run, or when a customer disputes a charge, the billing specialist gets a sheet tying each account's plan, quantity and invoice lines to the approved price mapping and the seat or usage records, with doubtful matches kept open.
 
-*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/subscription-billing-exception-sheet/)*
+*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/subscription-billing-exception-sheet/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on a past billing run the specialis
 
 ## Related workflow templates
 
-- [Receivables exception review](https://fullypowered.ai/workflow templates/receivables-exception-review/)
-- [Month-end close checklist](https://fullypowered.ai/workflow templates/month-end-close-checklist/)
-- [Software subscription and vendor spend review](https://fullypowered.ai/workflow templates/software-subscription-and-vendor-spend-review/)
+- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 Before a technical discovery or demo meeting, the account executive and solutions engineer get an attendee brief, a demo sequence built around the buyer's stated workflow from approved scenarios, and open questions. Requests nobody has verified stay questions.
 
-*Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/technical-demo-plan/)*
+*Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/technical-demo-plan/)*
 
 ## The outcome
 
@@ -74,9 +74,9 @@ Testing in your environment means running it on a past meeting your team already
 
 ## Related workflow templates
 
-- [Sales call preparation brief](https://fullypowered.ai/workflow templates/sales-call-preparation-brief/)
-- [Deal close plan](https://fullypowered.ai/workflow templates/deal-close-plan/)
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
+- [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/)
+- [Deal close plan](https://fullypowered.ai/workflows/deal-close-plan/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
 
 ## Make it yours
 

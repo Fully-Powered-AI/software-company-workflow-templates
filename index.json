@@ -9,7 +9,7 @@
       "version": "0.1.0",
       "summary": "When a buyer sends a security questionnaire, your sales owner gets a draft answer matrix: each question beside the evidence your security owner supplied, its date, its limits and a named reviewer, with stale, partial and unverifiable answers marked.",
       "path": "buyer-security-questionnaire-answers/",
-      "directory": "https://fullypowered.ai/workflow templates/buyer-security-questionnaire-answers/"
+      "directory": "https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/"
     },
     {
       "id": "cloud-spend-variance-bridge",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "When cloud or tooling costs move away from budget, the finance lead and the engineering manager get a bridge from budget to actual by service and cost owner, with usage beside each large move, the unallocated and shared costs, and the questions each side must answer.",
       "path": "cloud-spend-variance-bridge/",
-      "directory": "https://fullypowered.ai/workflow templates/cloud-spend-variance-bridge/"
+      "directory": "https://fullypowered.ai/workflows/cloud-spend-variance-bridge/"
     },
     {
       "id": "implementation-blocker-brief",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "When a customer's setup milestone slips, the implementation lead gets one brief: the missing inputs, the unresolved access and data questions and the dependencies behind the delay, each with its source and an owner, plus points to raise with the customer.",
       "path": "implementation-blocker-brief/",
-      "directory": "https://fullypowered.ai/workflow templates/implementation-blocker-brief/"
+      "directory": "https://fullypowered.ai/workflows/implementation-blocker-brief/"
     },
     {
       "id": "subscription-billing-exception-sheet",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "Before a subscription billing run, or when a customer disputes a charge, the billing specialist gets a sheet tying each account's plan, quantity and invoice lines to the approved price mapping and the seat or usage records, with doubtful matches kept open.",
       "path": "subscription-billing-exception-sheet/",
-      "directory": "https://fullypowered.ai/workflow templates/subscription-billing-exception-sheet/"
+      "directory": "https://fullypowered.ai/workflows/subscription-billing-exception-sheet/"
     },
     {
       "id": "technical-demo-plan",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "Before a technical discovery or demo meeting, the account executive and solutions engineer get an attendee brief, a demo sequence built around the buyer's stated workflow from approved scenarios, and open questions. Requests nobody has verified stay questions.",
       "path": "technical-demo-plan/",
-      "directory": "https://fullypowered.ai/workflow templates/technical-demo-plan/"
+      "directory": "https://fullypowered.ai/workflows/technical-demo-plan/"
     },
     {
       "id": "usability-test-session-plan",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "Before a prototype or a confusing flow goes in front of users, the research lead and product owner hold one plan: who to recruit, the tasks in plain words, the neutral prompts, a blank note sheet and how success is counted. Recording and data handling are listed as decisions.",
       "path": "usability-test-session-plan/",
-      "directory": "https://fullypowered.ai/workflow templates/usability-test-session-plan/"
+      "directory": "https://fullypowered.ai/workflows/usability-test-session-plan/"
     }
   ]
 }

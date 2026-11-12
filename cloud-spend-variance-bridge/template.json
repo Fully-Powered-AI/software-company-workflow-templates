@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When cloud or tooling costs move away from budget, the finance lead and the engineering manager get a bridge from budget to actual by service and cost owner, with usage beside each large move, the unallocated and shared costs, and the questions each side must answer.",
-  "directory": "https://fullypowered.ai/workflow templates/cloud-spend-variance-bridge/",
+  "directory": "https://fullypowered.ai/workflows/cloud-spend-variance-bridge/",
   "primary_function": "functions/finance-and-accounting",
   "functions": [
     "functions/finance-and-accounting",

@@ -2,7 +2,7 @@
 
 When cloud or tooling costs move away from budget, the finance lead and the engineering manager get a bridge from budget to actual by service and cost owner, with usage beside each large move, the unallocated and shared costs, and the questions each side must answer.
 
-*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/cloud-spend-variance-bridge/)*
+*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cloud-spend-variance-bridge/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on a past month that finance and en
 
 ## Related workflow templates
 
-- [Software subscription and vendor spend review](https://fullypowered.ai/workflow templates/software-subscription-and-vendor-spend-review/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
-- [Supplier spend analysis](https://fullypowered.ai/workflow templates/supplier-spend-analysis/)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
 
 ## Make it yours
 

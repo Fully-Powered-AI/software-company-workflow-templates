@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a prototype or a confusing flow goes in front of users, the research lead and product owner hold one plan: who to recruit, the tasks in plain words, the neutral prompts, a blank note sheet and how success is counted. Recording and data handling are listed as decisions.",
-  "directory": "https://fullypowered.ai/workflow templates/usability-test-session-plan/",
+  "directory": "https://fullypowered.ai/workflows/usability-test-session-plan/",
   "primary_function": "functions/design-and-user-experience",
   "functions": [
     "functions/design-and-user-experience",
