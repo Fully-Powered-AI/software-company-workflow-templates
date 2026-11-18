@@ -230,4 +230,4 @@ credit, send or decide, decline.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Not yet tested in a client environment.

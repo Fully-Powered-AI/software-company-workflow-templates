@@ -304,4 +304,4 @@ revise the plan and say first what changed.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published beside it. The run saw part of the example's output early, and the wording of several steps (2 to 8) was clarified afterwards. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published beside it. The run saw part of the example's output early, and the wording of several steps (2 to 8) was clarified afterwards. Not yet tested in a client environment.
