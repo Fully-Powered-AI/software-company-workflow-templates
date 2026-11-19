@@ -4,6 +4,8 @@ Before a technical discovery or demo meeting, the account executive and solution
 
 *Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/technical-demo-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/technical-demo-plan/?from=gh-software-company-technical-demo-plan)
+
 ## The outcome
 
 The two people going into the meeting share one page. It says who will be in the room and what each has said, lists the steps of the buyer's own working day as the buyer described them, and proposes a running order of demo scenarios your company has already approved, one scenario for each step it can honestly show. Every request the buyer made is matched to an approved scenario or held as a question.

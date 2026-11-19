@@ -4,6 +4,8 @@ When a buyer sends a security questionnaire, your sales owner gets a draft answe
 
 *Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/?from=gh-buyer-security-questionnaire-answers)
+
 ## The outcome
 
 The questionnaire stops being a scramble across sales, security and IT. The sales owner has one matrix in which every question is either answered from evidence the security owner has already supplied, or marked with the reason it cannot yet be: the evidence is out of date, covers only part of the question, or does not exist.

@@ -4,6 +4,8 @@ When a customer's setup milestone slips, the implementation lead gets one brief:
 
 *Workflow template · Software technology · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/implementation-blocker-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/implementation-blocker-brief/?from=gh-implementation-blocker-brief)
+
 ## The outcome
 
 The implementation lead walks into the next customer call knowing exactly what is holding the work up, not just that it is late. Every late milestone is traced to the things stopping it: something the customer has not supplied, an access question nobody has settled, a data question, a change window, or an earlier milestone that is itself unfinished.

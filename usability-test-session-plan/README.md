@@ -4,6 +4,8 @@ Before a prototype or a confusing flow goes in front of users, the research lead
 
 *Workflow template · Software technology · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/usability-test-session-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/usability-test-session-plan/?from=gh-usability-test-session-plan)
+
 ## The outcome
 
 The team stops arguing about a screen and starts watching people use it. The plan turns "we think the flow is confusing" into a few sessions with realistic tasks, the right participants, a script that does not lead anyone and a note sheet that keeps what happened apart from what anyone thinks it means.

@@ -4,6 +4,8 @@ Before a subscription billing run, or when a customer disputes a charge, the bil
 
 *Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/subscription-billing-exception-sheet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/subscription-billing-exception-sheet/?from=gh-subscription-billing-exception-sheet)
+
 ## The outcome
 
 Most subscription charges are right. The few that are not are the ones a customer finds first: a seat count that fell on the first of the month, a price that moved off the list, an account that was never invoiced, a credit that was agreed but never reached the invoice. This workflow template finds them before the run goes out, or traces a disputed charge back to the records behind it.
