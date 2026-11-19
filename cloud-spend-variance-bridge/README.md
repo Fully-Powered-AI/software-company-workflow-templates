@@ -1,10 +1,17 @@
 # Cloud spend variance bridge
 
-When cloud or tooling costs move away from budget, the finance lead and the engineering manager get a bridge from budget to actual by service and cost owner, with usage beside each large move, the unallocated and shared costs, and the questions each side must answer.
+Bridge cloud or tooling spend from budget to actual by service and owner, with usage beside each large move. People decide what happens to spend.
 
-*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cloud-spend-variance-bridge/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Cloud spend variance bridge on our website](https://fullypowered.ai/workflows/cloud-spend-variance-bridge/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/cloud-spend-variance-bridge/?from=gh-cloud-spend-variance-bridge)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cloud-spend-variance-bridge/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge)*
 
 ## The outcome
 
@@ -36,16 +43,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where the cloud bill is one of the largest costs and engineering and finance read it differently.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where traffic peaks move hosting and data costs against a flat budget.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where storage and delivery costs follow the size of the library and the audience.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the budget and the explanation of variance.
-- [IT and systems](https://fullypowered.ai/functions/it-and-systems/), which runs the services behind the bill.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), whose teams own the workloads that generate the cost.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when usage outruns the plan the budget was set against.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the cloud bill is a large share of spend and nobody yet owns each line.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), where the cloud bill is one of the largest costs and engineering and finance read it differently.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), where traffic peaks move hosting and data costs against a flat budget.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), where storage and delivery costs follow the size of the library and the audience.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), which owns the budget and the explanation of variance.
+- [IT and systems](https://fullypowered.ai/functions/it-and-systems/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), which runs the services behind the bill.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), whose teams own the workloads that generate the cost.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), when usage outruns the plan the budget was set against.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), where the cloud bill is a large share of spend and nobody yet owns each line.
 
-It sits beside, and does not replace, [software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/), which lists every subscription from a card statement, and [budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/), which writes the finance commentary for any budget line. [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/) groups payables by supplier. This one reads a cloud billing export and its usage figures.
+It sits beside, and does not replace, [software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), which lists every subscription from a card statement, and [budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge), which writes the finance commentary for any budget line. [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge) groups payables by supplier. This one reads a cloud billing export and its usage figures.
 
 ## What has to change for your company
 
@@ -82,10 +89,10 @@ Testing in your environment means running it on a past month that finance and en
 
 ## Related workflow templates
 
-- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
-- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge).

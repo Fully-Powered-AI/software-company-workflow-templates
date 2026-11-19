@@ -1,10 +1,17 @@
 # Usability test session plan
 
-Before a prototype or a confusing flow goes in front of users, the research lead and product owner hold one plan: who to recruit, the tasks in plain words, the neutral prompts, a blank note sheet and how success is counted. Recording and data handling are listed as decisions.
+Before a prototype goes in front of users, get one plan: who to recruit, plain tasks, neutral prompts and a note sheet. A person decides recording.
 
-*Workflow template · Software technology · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/usability-test-session-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Usability test session plan on our website](https://fullypowered.ai/workflows/usability-test-session-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/usability-test-session-plan/?from=gh-usability-test-session-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Software technology · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/usability-test-session-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan)*
 
 ## The outcome
 
@@ -33,13 +40,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/), where a plan like this comes before a redesign.
-- [Product management](https://fullypowered.ai/functions/product-management/), where the product owner decides what is worth testing.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where prototypes and new flows are constant.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a checkout or returns flow that confuses people costs sales.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where sign-up and account flows carry sensitive data and need careful handling.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where a first prototype should meet real users early.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), where a new product's flow has no history to lean on.
+- [Design and user experience](https://fullypowered.ai/functions/design-and-user-experience/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan), where a plan like this comes before a redesign.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan), where the product owner decides what is worth testing.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan), where prototypes and new flows are constant.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan), where a checkout or returns flow that confuses people costs sales.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan), where sign-up and account flows carry sensitive data and need careful handling.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan), where a first prototype should meet real users early.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan), where a new product's flow has no history to lean on.
 
 ## What has to change for your company
 
@@ -49,7 +56,7 @@ Set how many sessions you run per group, how long a session lasts, and how much 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs: the instructions were revised after each of the first two runs and an independent review, and the record of the third is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means giving it a flow your team has already watched people use, with cases written in advance: a task that names a button, a participant criterion nobody can check, sessions that do not fit the time. The research lead checks the plan before any participant is contacted. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means giving it a flow your team has already watched people use, with cases written in advance: a task that names a button, a participant criterion nobody can check, sessions that do not fit the time. The research lead checks the plan before any participant is contacted. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan) sets those cases up.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -76,10 +83,10 @@ Testing in your environment means giving it a flow your team has already watched
 
 ## Related workflow templates
 
-- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan).

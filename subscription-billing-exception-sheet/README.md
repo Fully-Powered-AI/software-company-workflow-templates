@@ -1,10 +1,17 @@
 # Subscription billing exception sheet
 
-Before a subscription billing run, or when a customer disputes a charge, the billing specialist gets a sheet tying each account's plan, quantity and invoice lines to the approved price mapping and the seat or usage records, with doubtful matches kept open.
+Check each account's plan, quantity and invoice lines against the price mapping and seat records before a billing run. A person approves any credit.
 
-*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/subscription-billing-exception-sheet/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Subscription billing exception sheet on our website](https://fullypowered.ai/workflows/subscription-billing-exception-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/subscription-billing-exception-sheet/?from=gh-subscription-billing-exception-sheet)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/subscription-billing-exception-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet)*
 
 ## The outcome
 
@@ -33,14 +40,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Software and technology companies](https://fullypowered.ai/industries/software-technology/), where plans, seats and usage change between billing runs.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where memberships and licences are billed on a recurring basis.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where subscription programmes are billed from plan and quantity records.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the invoice, the credit and the close.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when plan counts and amendments outgrow a spreadsheet check.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where an older price list and years of amendments hide exceptions.
+- [Software and technology companies](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), where plans, seats and usage change between billing runs.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), where memberships and licences are billed on a recurring basis.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), where subscription programmes are billed from plan and quantity records.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), which owns the invoice, the credit and the close.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), when plan counts and amendments outgrow a spreadsheet check.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), where an older price list and years of amendments hide exceptions.
 
-It looks at what the company charges its own customers. It stays apart from [receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/), which handles payments that came in against issued invoices, from [payout reconciliation for an online store](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/), which ties a payment processor's payouts to the bank, and from [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/), which checks bills the company owes.
+It looks at what the company charges its own customers. It stays apart from [receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), which handles payments that came in against issued invoices, from [payout reconciliation for an online store](https://fullypowered.ai/workflows/payout-reconciliation-for-an-online-store/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), which ties a payment processor's payouts to the bank, and from [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet), which checks bills the company owes.
 
 ## What has to change for your company
 
@@ -77,10 +84,10 @@ Testing in your environment means running it on a past billing run the specialis
 
 ## Related workflow templates
 
-- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/)
-- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/)
-- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/)
+- [Receivables exception review](https://fullypowered.ai/workflows/receivables-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet)
+- [Month-end close checklist](https://fullypowered.ai/workflows/month-end-close-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-subscription-billing-exception-sheet&from=gh-subscription-billing-exception-sheet).
