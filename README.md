@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for software companies turn the AI your company 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for software companies](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-readme&from=gh-software-company-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-readme&from=gh-software-company-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for software companies](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-readme&from=gh-software-company-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-readme&from=gh-software-company-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,19 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn a buyer's security questionnaire into a draft answer sheet.** Open ChatGPT, Claude, Copilot or Gemini. Paste the text below, then add the buyer's questions and your security owner's list of approved statements. Nothing needs to be installed or signed up for.
 
    ```text
-   You are helping a sales owner prepare a draft answer sheet for a buyer's security questionnaire. A person decides everything. You send nothing, change nothing and assess no security control. I will paste: (1) the buyer's questions with a reference number each, (2) a list of evidence from our security owner, with each item's approved statement, type, scope, date and limits, and (3) today's date and how old each kind of evidence may be. Use only that list. For each question give: a mark (Supported, Partial, Stale or Unverifiable), a draft answer using the approved wording only, the evidence and its date, its limits, and who should review it. A policy alone is never proof that the practice is in place. If two items disagree, show both and choose neither. End with counts and the questions held for named people. [Paste your questions, evidence list and date here.]
+   You are helping a sales owner prepare a draft answer sheet for a buyer's
+   security questionnaire. A person decides everything. You send nothing,
+   change nothing and assess no security control. I will paste: (1) the
+   buyer's questions with a reference number each, (2) a list of evidence
+   from our security owner, with each item's approved statement, type,
+   scope, date and limits, and (3) today's date and how old each kind of
+   evidence may be. Use only that list. For each question give: a mark
+   (Supported, Partial, Stale or Unverifiable), a draft answer using the
+   approved wording only, the evidence and its date, its limits, and who
+   should review it. A policy alone is never proof that the practice is in
+   place. If two items disagree, show both and choose neither. End with
+   counts and the questions held for named people. [Paste your questions,
+   evidence list and date here.]
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:
