@@ -8,7 +8,7 @@ Get an attendee brief, a demo sequence built from approved scenarios and open qu
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Software technology · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/technical-demo-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-technical-demo-plan&from=gh-software-company-technical-demo-plan)*
@@ -35,7 +35,7 @@ The account executive or the solutions engineer starts it as soon as a technical
 
 One plan in a fixed order: the items the pair must settle, an attendee brief, the buyer's workflow as stated, what the buyer has asked for and how each request matches an approved scenario, a timed demo sequence, open discovery questions, the setup each scenario needs, and a list of what is not to be shown or promised. It closes with a status line saying nothing has been sent, booked or changed. If the buyer has described no workflow, no sequence is built and the plan says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -54,7 +54,7 @@ Set up the approved demo scenario list first: one row for each scenario, with it
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it. The run saw part of the example's output early, and the wording of several steps was clarified afterwards. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record is published with it. The run saw part of the example's output early, and the wording of several steps was clarified afterwards. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past meeting your team already knows, with cases written in advance: a request that matches no scenario, a roadmap item the buyer asked for, a scenario that has not been checked recently, an invitee with no title. The solutions engineer checks every scenario status against the list before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-technical-demo-plan&from=gh-software-company-technical-demo-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-technical-demo-plan&from=gh-software-company-technical-demo-plan) describes the record we keep.
 
@@ -62,13 +62,13 @@ Testing in your environment means running it on a past meeting your team already
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

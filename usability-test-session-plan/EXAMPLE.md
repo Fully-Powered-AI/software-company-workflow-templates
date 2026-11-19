@@ -1,6 +1,6 @@
-# Usability test session plan: an invented example
+# Usability test session plan: an example
 
-*Illustrative example with invented data.* The company, the product and every figure are made up. A product owner at an invented software company, Fenlow Rota, has a clickable prototype of a new way for shop and cafe staff to ask a colleague to cover a shift, and wants to see whether people can use it before engineering builds it. The research lead will approve the plan.
+*Illustrative example with sample data.* The company, the product and every figure are made up. A product owner at an illustrative software company, Fenlow Rota, has a clickable prototype of a new way for shop and cafe staff to ask a colleague to cover a shift, and wants to see whether people can use it before engineering builds it. The research lead will approve the plan.
 
 ## What the person supplies
 

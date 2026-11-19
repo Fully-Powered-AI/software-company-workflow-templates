@@ -8,7 +8,7 @@ Before a prototype goes in front of users, get one plan: who to recruit, plain t
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Software technology · Design and user experience · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/usability-test-session-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan)*
@@ -36,7 +36,7 @@ The product owner or the research lead starts it when a prototype is ready to pu
 
 One plan in a fixed order: the questions, the participant groups with a neutral question to check each criterion, a time budget for each session, tasks written without the product's own button names, the prompts the facilitator may use, a blank observation note sheet, the success measures and a coverage check. Recording, consent, who sees the notes, how long they are kept and incentives are listed as decisions with an owner, marked "Not decided" until a person decides them.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -54,7 +54,7 @@ Set how many sessions you run per group, how long a session lasts, and how much 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs: the instructions were revised after each of the first two runs and an independent review, and the record of the third is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in three runs: the instructions were revised after each of the first two runs and an independent review, and the record of the third is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means giving it a flow your team has already watched people use, with cases written in advance: a task that names a button, a participant criterion nobody can check, sessions that do not fit the time. The research lead checks the plan before any participant is contacted. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-usability-test-session-plan&from=gh-usability-test-session-plan) sets those cases up.
 
@@ -62,13 +62,13 @@ Testing in your environment means giving it a flow your team has already watched
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Buyer security questionnaire answers: an invented example
+# Buyer security questionnaire answers: an example
 
-*Illustrative example with invented data.* The company, buyer, people, evidence and dates below are made up. They show the inputs a person supplies and the matrix that comes out.
+*Illustrative example with sample data.* The company, buyer, people, evidence and dates below are made up. They show the inputs a person supplies and the matrix that comes out.
 
 ## What the person supplies
 
-**The company and the run.** Larchfield Software, an invented 80-person software company. The sales owner is Alicia Ward. The security owner is Dana Kessler. The IT lead is Tomas Rehn. Buyer X sent an eight-question security questionnaire on 2 November 2026. The assistant is run on 10 November 2026, the as-of date.
+**The company and the run.** Larchfield Software, an illustrative 80-person software company. The sales owner is Alicia Ward. The security owner is Dana Kessler. The IT lead is Tomas Rehn. Buyer X sent an eight-question security questionnaire on 2 November 2026. The assistant is run on 10 November 2026, the as-of date.
 
 **The rules for this response.** Policies, test records and certificates count as current for 12 months (not older than 10 November 2025). Configuration exports count as current for 90 days (not older than 12 August 2026). Reviewers: Tomas Rehn for encryption, backups and hosting; Dana Kessler for everything else. Reports and documents may be shared with a buyer only if Dana Kessler approves, and under a confidentiality agreement.
 

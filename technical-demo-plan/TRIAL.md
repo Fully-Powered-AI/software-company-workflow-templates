@@ -1,12 +1,12 @@
-# Technical demo plan: tried on its invented example
+# Technical demo plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (Halvering Software and Dunmarrow Freight Services, all invented). No client data was used. The inputs taken from it: the meeting details and invite, the two sets of call notes, the agreed agenda, the opportunity record, the six-row scenario export, and no settings (defaults used). The example's own output was not read before the plan below was produced, with one slip noted under "What was observed".
+The inputs were the example in `public/example.md` (Halvering Software and Dunmarrow Freight Services, all illustrative). No client data was used. The inputs taken from it: the meeting details and invite, the two sets of call notes, the agreed agenda, the opportunity record, the six-row scenario export, and no settings (defaults used). The example's own output was not read before the plan below was produced, with one slip noted under "What was observed".
 
-Run as follows: the fenced instruction block and the output format were applied to those inputs in one pass, with no follow-up questions. The "Today" in the inputs (16 November 2026) is the invented date and is the one used in the plan; the date at the top of this page is the real date of the run.
+Run as follows: the fenced instruction block and the output format were applied to those inputs in one pass, with no follow-up questions. The "Today" in the inputs (16 November 2026) is the illustrative date and is the one used in the plan; the date at the top of this page is the real date of the run.
 
 ## What came out
 
@@ -104,7 +104,7 @@ Status: Prepared for Ines and Tomas. Nothing has been sent, booked or changed, a
 6. *Where an unanswered buyer question goes.* Step 8 lists "questions the buyer asked that nobody has answered" first, but the same step bars asking them back. Callum's carrier question was put under items to settle instead, which the template does not say outright.
 7. *Placing the leftover minutes.* 24 minutes of open discussion is nearly half the demo time. The template says to reserve it and offers no prompt to ask whether the pair want to add a scenario instead.
 8. *Items to settle versus questions.* An unverified request appears in three places (to settle, questions, "Not to show or promise"). The template allows this but does not say how to keep them consistent, and the numbering cross-references (item numbers in "Not to show or promise") were left to the writer.
-9. *Which date is "Prepared".* The input's "Today" is the meeting's frame; the real date of the run differs. The template has only one "today's date", so the invented one was used.
+9. *Which date is "Prepared".* The input's "Today" is the meeting's frame; the real date of the run differs. The template has only one "today's date", so the sample one was used.
 10. *Mirela's absence from the record.* She is on the invite and named in the notes as someone who should see the demo, but is not under Stakeholders. The template covers people named in notes but not on the invite; it does not cover the reverse mismatch with the record. A note was added in the brief.
 11. *Role names.* The sequence names leads by first name (from the invite and notes), while questions use "account executive" and "solutions engineer" as the format shows. The format mixes both and does not say which to use.
 12. *Count line for set-aside questions.* The format has "[n set aside above the limit, if any]"; a zero was written, which the format does not require.

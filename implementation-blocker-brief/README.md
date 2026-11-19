@@ -8,7 +8,7 @@ When a customer's setup milestone slips, the implementation lead gets one brief 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Software technology · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/implementation-blocker-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-implementation-blocker-brief&from=gh-implementation-blocker-brief)*
@@ -42,7 +42,7 @@ The implementation lead starts it when a milestone passes its planned date, or w
 
 Good looks like this: the lead could open the customer call with the brief alone, and every line points back to a record.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -65,7 +65,7 @@ It stops at finding what is blocked. [Schedule recovery options](https://fullypo
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The run on the revised template was made by the same session that revised it, so it was not independent, and it did not exercise the stop conditions or the acceptance tests. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it. The run on the revised template was made by the same session that revised it, so it was not independent, and it did not exercise the stop conditions or the acceptance tests. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on recent late implementations, with the expected behavior agreed first: access shown as confirmed only when a record says it works, an owner left blank in the checklist, a promise to send something "next week" with nothing since. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-implementation-blocker-brief&from=gh-implementation-blocker-brief) builds that test set.
 
@@ -73,13 +73,13 @@ Testing in your environment means running it on recent late implementations, wit
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

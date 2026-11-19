@@ -1,6 +1,6 @@
-# Implementation blocker brief: an invented example
+# Implementation blocker brief: an example
 
-*Illustrative example with invented data.* The company, the customer, the people, the dates and the records below are all invented. Software Company A is an invented software company; Customer B is an invented customer in its setup phase. First come the inputs the implementation lead supplied, in full, then the brief the workflow template returned.
+*Illustrative example with sample data.* The company, the customer, the people, the dates and the records below are all illustrative. Software Company A is an illustrative software company; Customer B is an illustrative customer in its setup phase. First come the inputs the implementation lead supplied, in full, then the brief the workflow template returned.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
-# Subscription billing exception sheet: an invented example
+# Subscription billing exception sheet: an example
 
-*Illustrative example with invented data.* The company, its customers, the plans, the prices, the dates and the amounts below are all invented. The company is an invented software company, called "the Company" here, whose billing specialist runs the monthly subscription invoices and whose finance lead approves corrections. Customers are lettered. First come the inputs the billing specialist supplied, in full, then the sheet the workflow template returned.
+*Illustrative example with sample data.* The company, its customers, the plans, the prices, the dates and the amounts below are all illustrative. The company is an illustrative software company, called "the Company" here, whose billing specialist runs the monthly subscription invoices and whose finance lead approves corrections. Customers are lettered. First come the inputs the billing specialist supplied, in full, then the sheet the workflow template returned.
 
 ## The inputs
 

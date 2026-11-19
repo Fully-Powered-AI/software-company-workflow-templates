@@ -1,13 +1,13 @@
-# Subscription billing exception sheet: trial on the invented example
+# Subscription billing exception sheet: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The company, customers, plans and amounts are invented and no client data was used. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The company, customers, plans and amounts are illustrative and no client data was used. It is not a test in any company's environment.
 
-The inputs were the invented example in `public/example.md` (the six inputs under "The inputs"). No client data was used. The instruction block and output format from `member/template.md` were followed. The assistant did not read the example's sheet until its own sheet was finished. It then compared the two.
+The inputs were the example in `public/example.md` (the six inputs under "The inputs"). No client data was used. The instruction block and output format from `member/template.md` were followed. The assistant did not read the example's sheet until its own sheet was finished. It then compared the two.
 
 ## What came out
 
@@ -54,7 +54,7 @@ Questions for the billing specialist (one per item, each naming the record to lo
   - Whether the quantity check applies to a bundle line. The bundle line bills 1 unit while the seat records show 10. This run treated the bundle step as governing and skipped the seat-quantity check.
   - How a usage measure such as `api_calls_thousands` maps to a plan whose billing unit is "1000 calls". There is no stated link between a plan and its measure name; this run inferred it.
   - The "Result" line asks for a count of lines with a difference, but a credit not on the draft is counted both as a line and as a separate figure.
-- The template's acceptance tests are marked as proposed and not yet run; this trial covered the invented example only, not each test.
+- The template's acceptance tests are marked as proposed and not yet run; this trial covered the example only, not each test.
 
 ## What was changed after the run, and not run again
 

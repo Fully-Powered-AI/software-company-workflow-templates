@@ -1,10 +1,10 @@
-# Trying "Usability test session plan" on its invented example
+# Trying "Usability test session plan" on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Fenlow Rota, a made-up company and prototype). No client data was used. The template is `member/template.md`, version 0.1.0, as revised after a first run and an independent review, and again after a second run and a second independent review (see "Changed before this run"). The inputs used were the six screens P1 to P6, three questions Q1 to Q3, five participant criteria (U1 to U3, M1, M2), two pain points K1 and K2, the constraints, and the handling already decided, all as written in the example. This is a third run, one pass with no retries.
+The inputs are the example in `public/example.md` (Fenlow Rota, a made-up company and prototype). No client data was used. The template is `member/template.md`, version 0.1.0, as revised after a first run and an independent review, and again after a second run and a second independent review (see "Changed before this run"). The inputs used were the six screens P1 to P6, three questions Q1 to Q3, five participant criteria (U1 to U3, M1, M2), two pain points K1 and K2, the constraints, and the handling already decided, all as written in the example. This is a third run, one pass with no retries.
 
 One thing to know about how fair this trial is: this run was made by the same session that revised the template, after reading the earlier record and the reviewer's points. I followed the revised instruction block and output format on the inputs, but my output is not independent of the template's revisions or of the earlier runs, and the example's plan was then set to the output below so that the two agree.
 

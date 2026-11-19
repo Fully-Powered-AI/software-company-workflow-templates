@@ -1,4 +1,4 @@
-# Trial: Cloud spend variance bridge, run on its invented example
+# Trial: Cloud spend variance bridge, run on its example
 
 - **Product:** Claude, run in Claude Code
 
@@ -6,7 +6,7 @@ Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The assistant that ran th
 
 Date: 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Software Company Q, a made-up software company). No client data was used.
+The inputs are the example in `public/example.md` (Software Company Q, a made-up software company). No client data was used.
 
 ## Inputs used
 
@@ -99,7 +99,7 @@ Every figure traces to the billing export for 2026-09 and 2026-10, the budget fo
   - The instruction block for the assistant leaves out some rules that are in the procedure: rounding halves up, the four-decimal rule for cost per unit, the 2% flat rule's "either direction" and the prior-month-missing behaviour. A run that used only the fenced block would have to guess the decimals for cost per unit. The stop condition for a duplicate row is in the block.
   - The format line "Services not in the budget ([n]): [+variance]" shows a plus sign only; a credit-only unbudgeted service would have a negative figure.
 - Nothing was cut from the output above.
-- This was one run, by one model, on one invented example. It shows that the instructions can be followed to the published result; it does not show how the template performs on a real billing export, and no client data was used.
+- This was one run, by one model, on one example. It shows that the instructions can be followed to the published result; it does not show how the template performs on a real billing export, and no client data was used.
 
 ## Changes after this run
 
@@ -115,7 +115,7 @@ A rerun after those edits is recorded below. The first run's output and observat
 
 ## Second run, on the edited wording
 
-Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-10. The same invented inputs.
+Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-10. The same sample inputs.
 
 This second run was made by the assistant that applied the later review's small edits, not by a fresh assistant. It had already read the example and the first run, so it is not a blind run and is weaker evidence than the first. It applied the edited instruction block and output format to the five inputs and checked its figures against the inputs, not against the example. A further edit then changed the format line for a material service not in the budget; the example has none, so that rule has not been exercised by any run.
 
@@ -191,4 +191,4 @@ What was observed in the second run:
 - The output is identical to the published example. It was written with the example already read, so the identical wording is not independent confirmation that a fresh assistant would produce it; the first run showed the earlier wording differing in list order and in the wording of some questions.
 - Cost per unit is printed with four decimals when under 1 for Compute, Logging and monitoring and Object storage, and with two for Machine learning training (5.00), as the rule says.
 - A material service not in the budget, a budgeted service with no export rows and an account that had cost in another service last month are not in the example's inputs, so none of those rules was exercised.
-- This was one more run by one model on one invented example. No client data was used and nothing here shows how the template performs on a real billing export.
+- This was one more run by one model on one example. No client data was used and nothing here shows how the template performs on a real billing export.

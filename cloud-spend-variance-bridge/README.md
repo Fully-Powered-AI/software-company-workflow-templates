@@ -8,7 +8,7 @@ Bridge cloud or tooling spend from budget to actual by service and owner, with u
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Software technology · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cloud-spend-variance-bridge/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=software-company-cloud-spend-variance-bridge&from=gh-cloud-spend-variance-bridge)*
@@ -39,7 +39,7 @@ The exports are files the person supplies. No access to a cloud account is neede
 
 One bridge, in a fixed order: the result for the month, the bridge from budget to actual with every step and a check that it adds up, the large moves one at a time with their usage and cost owners, services outside the budget, costs by owner including shared and unallocated, the services with no usage figures, questions for engineering, questions for finance, decisions that belong to people, and what was not supplied or checked.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Set the size of move worth explaining, in money and in percent. Agree how a shar
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record is published with it; the wording was refined after that run, and the record says where. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record is published with it; the wording was refined after that run, and the record says where. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past month that finance and engineering already understand, and checking that the bridge adds up, that each tag lands with the right owner and that no cause appears that nobody supplied. The finance lead checks every figure against the billing export before anyone relies on it.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a past month that finance and en
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

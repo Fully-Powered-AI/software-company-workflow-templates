@@ -1,10 +1,10 @@
-# Buyer security questionnaire answers: one trial on the invented example
+# Buyer security questionnaire answers: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This was one run of the workflow template on its own invented example. The inputs are the invented ones in [the example](example.md): Larchfield Software, Buyer X, eight questions and nine evidence entries. No client data was used. The model that ran it did not write the template. It read the template and the example's inputs first, followed the instruction block and output format, and only then compared the result with the example's published output.
+This was one run of the workflow template on its own example. The inputs are the sample ones in [the example](example.md): Larchfield Software, Buyer X, eight questions and nine evidence entries. No client data was used. The model that ran it did not write the template. It read the template and the example's inputs first, followed the instruction block and output format, and only then compared the result with the example's published output.
 
 ## Inputs used
 
@@ -113,7 +113,7 @@ Shortcomings:
 
 - The template states the mark rules in two places, the procedure and the instruction block, and they are worded a little differently. The instruction block leaves out the "no source date" rule and the rule for questions the register cannot show.
 - The acceptance tests are marked as proposed and none was run as part of this trial. This trial covered one example only.
-- This is one run by one model on an invented example. It says nothing about how the template performs on a real register, and no client environment was involved.
+- This is one run by one model on an example. It says nothing about how the template performs on a real register, and no client environment was involved.
 
 Changed after the run recorded above, and not run again. The output and observations above are as recorded and describe the template and example as they stood at the run:
 

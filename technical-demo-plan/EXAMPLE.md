@@ -1,6 +1,6 @@
-# Technical demo plan: an invented example
+# Technical demo plan: an example
 
-*Illustrative example with invented data.* Halvering Software, Dunmarrow Freight Services and every person in this example are invented. Halvering is a small company that sells shipment tracking and late-load alerts to freight forwarders. Ines, its account executive, and Tomas, its solutions engineer, have a technical demo with Dunmarrow booked for Thursday 19 November 2026 and prepare on Monday 16 November 2026.
+*Illustrative example with sample data.* Halvering Software, Dunmarrow Freight Services and every person in this example are illustrative. Halvering is a small company that sells shipment tracking and late-load alerts to freight forwarders. Ines, its account executive, and Tomas, its solutions engineer, have a technical demo with Dunmarrow booked for Thursday 19 November 2026 and prepare on Monday 16 November 2026.
 
 The inputs come first, complete, exactly as Ines and Tomas supplied them. The plan follows.
 

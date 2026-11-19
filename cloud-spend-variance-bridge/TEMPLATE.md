@@ -139,7 +139,7 @@ Every figure traces to the billing export for [months], the budget for [month] a
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test. Test 1 has the same shape as the invented example in the public example, which was tried once; the record is `public/trial.md`.
+Proposed tests. None has been run as a test. Test 1 has the same shape as the example in the public example, which was tried once; the record is `public/trial.md`.
 
 1. **Normal month.** Budget 44,000 and actual 51,600 across eight services. Expected: the bridge adds up and every section is printed.
 2. **Both thresholds.** A service over by 250 on a budget of 2,500 (10.0%), with an amount threshold of 1,000. Expected: within the threshold.

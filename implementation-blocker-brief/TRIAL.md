@@ -1,10 +1,10 @@
-# Implementation blocker brief: trial on its invented example
+# Implementation blocker brief: trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-Two runs are recorded. The first run was made on the template as first written, and its record is kept below word for word. The template, the example and this record were then revised after the first run's findings (compared below), and the second run was made on the revised template. The inputs are the invented example in `public/example.md`. No client data was used.
+Two runs are recorded. The first run was made on the template as first written, and its record is kept below word for word. The template, the example and this record were then revised after the first run's findings (compared below), and the second run was made on the revised template. The inputs are the example in `public/example.md`. No client data was used.
 
 ## Second run, on the revised template
 
@@ -22,11 +22,11 @@ Two runs are recorded. The first run was made on the template as first written, 
 2. Linking B3 to M2 rests on the words "single sign-on" in the record, which the revised rule allows and requires the brief to show. A stricter reader could still find the match too loose.
 3. Reading "reviewing" and "will name or send" as the customer's move is a rule of the template, not a fact in the inputs; a team that wants those marked "not stated" should change it under customization.
 
-**Shortcomings of the second run.** One run, one model, not isolated, on one invented example. It does not show how the template behaves on messy real exports, on the stop conditions, or in other AI products. The acceptance tests in the template were not run.
+**Shortcomings of the second run.** One run, one model, not isolated, on one example. It does not show how the template behaves on messy real exports, on the stop conditions, or in other AI products. The acceptance tests in the template were not run.
 
 ## First run, 2026-11-10, on the template as first written (kept as recorded)
 
-The inputs for this trial are the invented example in `public/example.md` (settings, implementation plan, readiness checklist, integration notes and meeting records for the invented Customer B). No client data was used. The assistant followed the instruction block and output format in `member/template.md` on those inputs without reading the published example output first, and the two were compared afterwards. The run was one pass by one person's session; it was not repeated.
+The inputs for this trial are the example in `public/example.md` (settings, implementation plan, readiness checklist, integration notes and meeting records for the illustrative Customer B). No client data was used. The assistant followed the instruction block and output format in `member/template.md` on those inputs without reading the published example output first, and the two were compared afterwards. The run was one pass by one person's session; it was not repeated.
 
 ### Inputs used
 
@@ -74,4 +74,4 @@ Facts not in the inputs: none were found in the trial output. In the example out
 
 ### Shortcomings of the first run
 
-One run, one model, one invented example. It does not show how the template behaves on messy real exports, on the stop conditions, or in other AI products. The acceptance tests in the template were not run.
+One run, one model, one example. It does not show how the template behaves on messy real exports, on the stop conditions, or in other AI products. The acceptance tests in the template were not run.
